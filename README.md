@@ -1,1 +1,1 @@
-# digital-makeup-using-opncv
+# digital-makeup-using-opencv
